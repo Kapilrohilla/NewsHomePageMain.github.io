@@ -8,7 +8,7 @@
 }
 @font-face {
     font-family: inter;
-    src: url(/assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+    src: url(Inter-VariableFont_slnt\,wght.ttf);
 }
 *{
     margin: 0;
@@ -137,7 +137,6 @@ picture img{
 .r{
     line-height: 30px;
     padding-top: 20px;
-    border-bottom: 1px solid grey;
     padding-bottom: 20px;
 }
 .r:last-of-type{
